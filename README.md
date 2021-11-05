@@ -1,2 +1,2 @@
 # poo-1
- code repository for Object-Oriented Programming class
+ code repository from Object-Oriented Programming class
